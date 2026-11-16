@@ -1,0 +1,13 @@
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\bin\Debug\TestButtonApp.exe.config
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\bin\Debug\TestButtonApp.exe
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\bin\Debug\TestButtonApp.pdb
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\bin\Debug\TestButtonLibrary.dll
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\bin\Debug\TestButtonLibrary.pdb
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.csproj.AssemblyReference.cache
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.Form1.resources
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.Properties.Resources.resources
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.csproj.GenerateResource.cache
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.csproj.CopyComplete
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.exe
+C:\Users\arthu\source\repos\TestButtonApp\TestButtonApp\obj\Debug\TestButtonApp.pdb
